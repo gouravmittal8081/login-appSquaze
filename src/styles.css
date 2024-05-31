@@ -1,0 +1,70 @@
+body {
+  background: url("./images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+.imgClass {
+  width: 20% !important;
+  -webkit-user-drag: none !important;
+}
+.cardStyleBack {
+  background: none !important;
+}
+
+.h3Style {
+  color: white !important;
+  font-size: 22px !important;
+  font-weight: 600 !important;
+}
+.h3styleBack {
+  color: white !important;
+}
+
+.ButtonStyle {
+  background: none !important;
+  color: white !important;
+  border-top: 1px solid white !important;
+  border-right: 1px solid white !important;
+  border-bottom: 1px solid white !important;
+  border-left: none !important;
+  text-decoration: none !important;
+}
+
+.inputStyle {
+  background: none !important;
+  color: white !important;
+  border-right: none !important;
+  text-decoration: none !important;
+  outline: none !important;
+}
+
+.ClipLoaderStyle {
+  height: 100vh !important;
+  background: #00000082 !important;
+  width: 100% !important;
+}
+
+.full-height-Card {
+  height: 97vh !important;
+  background: rgba(25, 19, 19, 0.749) !important;
+  color: white !important;
+  font-size: 4vh;
+}
+
+.temperatureFont {
+  font-size: 40px;
+}
+
+.card-profile {
+  background-color: rgba(34, 51, 66, 0.612) !important;
+  color: white !important;
+}
+
+
